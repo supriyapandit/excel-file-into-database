@@ -1,2 +1,2 @@
 # excel-file-into-database
-Project to Insert The Excel file fields to database
+Project to Insert The Excel data to database
